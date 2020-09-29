@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-29T14:40:50.025Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="XPNgequlH4f5dKdMeUhH" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-29T15:56:56.932Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="tZZ-JARvI9ET3Febt0q7" version="13.7.6" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="946" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,6 +103,114 @@
         </mxCell>
         <mxCell id="rXH_SxEchgfwMRb3xRB5-21" value="&lt;h1&gt;Flowchart 1&lt;/h1&gt;&lt;div&gt;Check if the given data is equal to 0, greater then 0 or less then 0&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="50" width="190" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="d5582Y9wzbjbTvzAzsBF" name="Page-2">
+    <mxGraphModel dx="946" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="n9bXepvzbanPjFVDVuKd-0" />
+        <mxCell id="n9bXepvzbanPjFVDVuKd-1" parent="n9bXepvzbanPjFVDVuKd-0" />
+        <mxCell id="VDrEforpiMEOnrigHa2E-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="n9bXepvzbanPjFVDVuKd-1" source="n9bXepvzbanPjFVDVuKd-2" target="n9bXepvzbanPjFVDVuKd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n9bXepvzbanPjFVDVuKd-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n9bXepvzbanPjFVDVuKd-1">
+          <mxGeometry x="150" y="140" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="n9bXepvzbanPjFVDVuKd-3" value="Scan&lt;br&gt;num1,&lt;br&gt;num2,&lt;br&gt;num3" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="n9bXepvzbanPjFVDVuKd-1">
+          <mxGeometry x="155" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VDrEforpiMEOnrigHa2E-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="n9bXepvzbanPjFVDVuKd-1" source="n9bXepvzbanPjFVDVuKd-4" target="VDrEforpiMEOnrigHa2E-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="215" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n9bXepvzbanPjFVDVuKd-4" value="if num1 &amp;gt; num2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="n9bXepvzbanPjFVDVuKd-1">
+          <mxGeometry x="160" y="350" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="n9bXepvzbanPjFVDVuKd-5" value="" style="endArrow=classic;html=1;" edge="1" parent="n9bXepvzbanPjFVDVuKd-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="215" y="290" as="sourcePoint" />
+            <mxPoint x="214.5" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VDrEforpiMEOnrigHa2E-0" value="&lt;h1&gt;Flowchart 2&lt;/h1&gt;&lt;p&gt;Find maximum among 3 numbers&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="n9bXepvzbanPjFVDVuKd-1">
+          <mxGeometry x="390" y="50" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VDrEforpiMEOnrigHa2E-1" value="" style="endArrow=classic;html=1;" edge="1" parent="n9bXepvzbanPjFVDVuKd-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="404.5" as="sourcePoint" />
+            <mxPoint x="370" y="404.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VDrEforpiMEOnrigHa2E-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="n9bXepvzbanPjFVDVuKd-1" source="VDrEforpiMEOnrigHa2E-2" target="VDrEforpiMEOnrigHa2E-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VDrEforpiMEOnrigHa2E-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="n9bXepvzbanPjFVDVuKd-1" source="VDrEforpiMEOnrigHa2E-2" target="VDrEforpiMEOnrigHa2E-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="520" />
+              <mxPoint x="425" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VDrEforpiMEOnrigHa2E-2" value="if num1 &amp;gt; num3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="n9bXepvzbanPjFVDVuKd-1">
+          <mxGeometry x="370" y="350" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VDrEforpiMEOnrigHa2E-3" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="n9bXepvzbanPjFVDVuKd-1">
+          <mxGeometry x="250" y="380" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VDrEforpiMEOnrigHa2E-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="n9bXepvzbanPjFVDVuKd-1" source="VDrEforpiMEOnrigHa2E-5" target="VDrEforpiMEOnrigHa2E-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VDrEforpiMEOnrigHa2E-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="n9bXepvzbanPjFVDVuKd-1" source="VDrEforpiMEOnrigHa2E-5" target="VDrEforpiMEOnrigHa2E-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VDrEforpiMEOnrigHa2E-5" value="if num2 &amp;gt; num3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="n9bXepvzbanPjFVDVuKd-1">
+          <mxGeometry x="155" y="520" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VDrEforpiMEOnrigHa2E-6" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="n9bXepvzbanPjFVDVuKd-1">
+          <mxGeometry x="205" y="460" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VDrEforpiMEOnrigHa2E-7" value="num1 is highest" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="n9bXepvzbanPjFVDVuKd-1">
+          <mxGeometry x="555" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VDrEforpiMEOnrigHa2E-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="n9bXepvzbanPjFVDVuKd-1" source="VDrEforpiMEOnrigHa2E-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="575" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VDrEforpiMEOnrigHa2E-11" value="num3 is highest" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="n9bXepvzbanPjFVDVuKd-1">
+          <mxGeometry x="355" y="545" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VDrEforpiMEOnrigHa2E-13" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="n9bXepvzbanPjFVDVuKd-1">
+          <mxGeometry x="275" y="550" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VDrEforpiMEOnrigHa2E-15" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="n9bXepvzbanPjFVDVuKd-1">
+          <mxGeometry x="425" y="460" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VDrEforpiMEOnrigHa2E-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="n9bXepvzbanPjFVDVuKd-1" source="VDrEforpiMEOnrigHa2E-16" target="VDrEforpiMEOnrigHa2E-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="555" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VDrEforpiMEOnrigHa2E-16" value="num2 is highest" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="n9bXepvzbanPjFVDVuKd-1">
+          <mxGeometry x="155" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VDrEforpiMEOnrigHa2E-18" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="n9bXepvzbanPjFVDVuKd-1">
+          <mxGeometry x="210" y="630" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VDrEforpiMEOnrigHa2E-20" value="end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n9bXepvzbanPjFVDVuKd-1">
+          <mxGeometry x="555" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VDrEforpiMEOnrigHa2E-21" value="" style="endArrow=classic;html=1;" edge="1" parent="n9bXepvzbanPjFVDVuKd-1" target="VDrEforpiMEOnrigHa2E-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="440" as="sourcePoint" />
+            <mxPoint x="660" y="390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
